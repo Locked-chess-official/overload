@@ -16,7 +16,7 @@
 ## 安装 / Installation
 
 ```bash
-pip install overload
+pip install overload_function
 ```
 
 ## 使用示例 / Usage Example
