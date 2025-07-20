@@ -65,20 +65,6 @@ process_data([], {})           # 抛出 TypeError / Raises TypeError
    - 当多个函数版本匹配时，会抛出异常
    - Raises an exception when multiple function versions match
 
-## 开发 / Development
-
-```bash
-git clone https://github.com/your-repo/overload-function.git
-cd overload-function
-pip install -e .
-```
-
-## 测试 / Testing
-
-```bash
-pytest tests/
-```
-
 ## 许可证 / License
 
 MIT License
