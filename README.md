@@ -16,7 +16,7 @@
 ## 安装 / Installation
 
 ```bash
-pip install typeguard
+pip install overload
 ```
 
 ## 使用示例 / Usage Example
