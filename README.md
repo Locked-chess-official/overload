@@ -23,7 +23,7 @@ pip install overload_function
 
 ```python
 from typing import Union
-from overload import OverloadFunction
+from overload_function import OverloadFunction
 
 @OverloadFunction
 def process_data(a: int, b: str) -> None:
